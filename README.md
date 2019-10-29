@@ -6,4 +6,4 @@ Contribution is always welcome, though I use Python but language does not matter
 
 Don't remove previous implementations of algorithms. Just add a new file with your own implementation.
 
-Beutify and Clen up your code for easier reading, you can also include your brute force approach and the better approach
+Beautify and Clen up your code for easier reading, you can also include your brute force approach and the better approach
